@@ -6,3 +6,4 @@ apikey.sh
 *.db
 ._*
 .DS_Store
+*.graphml
